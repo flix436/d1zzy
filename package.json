@@ -1,20 +1,23 @@
 {
-  "name": "d1zzy", 
-  "version": "1.0.0", 
-  "description": "d1", 
+  "name": "d1zzy",
+  "version": "1.0.1",
+  "description": "d1",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flix436/d1zzy.git" 
+    "url": "https://github.com/flix436/d1zzy.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "d1zzy2": "^1.0.0"
+  }
 }
